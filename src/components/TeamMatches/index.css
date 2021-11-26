@@ -1,0 +1,52 @@
+.team-matches-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.content-container {
+  width: 92%;
+  margin-top: 36px;
+  margin-bottom: 36px;
+}
+
+.RCB {
+  background-color: #a4261d;
+}
+.KKR {
+  background-color: #5755a7;
+}
+.KXP {
+  background-color: #d91c1f;
+}
+.CSK {
+  background-color: #f7db00;
+}
+.RR {
+  background-color: #da237b;
+}
+.MI {
+  background-color: #13418b;
+}
+.SH {
+  background-color: #f26d22;
+}
+.DC {
+  background-color: #4f5db0;
+}
+.team-banner-img {
+  width: 100%;
+}
+
+.latest-match-heading {
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.recent-matches-list {
+  padding-left: 0px;
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+}
